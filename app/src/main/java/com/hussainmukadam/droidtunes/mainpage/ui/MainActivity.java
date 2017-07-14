@@ -28,7 +28,7 @@ import butterknife.ButterKnife;
 import retrofit2.Call;
 import retrofit2.Callback;
 
-public class MainActivity extends AppCompatActivity implements TextView.OnEditorActionListener {
+public classMainActivity extends AppCompatActivity implements TextView.OnEditorActionListener {
     private static final String TAG = "MainActivity";
     ProgressDialog mProgressDialog;
     SongAdapter songAdapter;
